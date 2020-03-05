@@ -1,5 +1,6 @@
     1. Overview: In 1-2 paragraphs, provide an “elevator pitch” for your project. This should be a high-level overview of your idea, in non-technical language. What will your app do? What might users find useful about it? Where did the idea come from?
-          The site will 
+          Zac Frost is a very talented artist and animator with a lot of potential, but not a lot of good exposure.  This project will improve his online presence by providing him a more consistent and professional way to display his portfolio and present himself to potential employers and those who want to commission work from him.
+          The project will aim to maximize his exposure by simplifing the process of purchasing his work or commissioning him for other work through a dynamic, platform naive interface integrating all parts of communication into the site.
     2. Features: 
     • User login: Users will be able to create accounts and log in to the application. Each user will have a profile page.
     • Admin login: Admins will be able to create accounts and log in to the application. Each admin will have permissions to upload, modify, and move images in a gallery format that can be viewed full-screen when clicked.
